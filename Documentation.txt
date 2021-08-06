@@ -1,0 +1,9 @@
+1) To run the .py files:
+     * python report.py --organization nameOfOrganization --token Token
+     * python unitTest.py
+2) Required packages:
+     * pip install pygithub
+3) I used pycharm IDE for my task
+4) I also wrote unitTest that can validate the functions of my task includes:
+     * checking the connection for extracting Github API
+     * Validate the arguments from cli of token and organization
